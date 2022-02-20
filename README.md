@@ -15,4 +15,8 @@
 - [**工具**][Docker学习笔记](https://www.wolai.com/t2odGrsSrdp9jgkzRi4cY8)
 
 ## 尚未开始：
-K8S，更系统的重学Linux，kafaka等
+- K8S
+- kafaka
+- 更系统地重学linux
+- 等等等
+
