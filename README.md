@@ -13,7 +13,7 @@
 - [**数据库**][MySql学习笔记](https://www.wolai.com/uTbRLinYVoBevYqKWBXwvj)
 - [**数据库**][Redis6学习笔记](https://www.wolai.com/esmyTD1sRJD5DzjzbYTT1h)
 - [**工具**][Docker学习笔记](https://www.wolai.com/t2odGrsSrdp9jgkzRi4cY8)
-
+- [**工具**][FastDFS学习笔记](https://www.wolai.com/uvvzckKu389EMTsKjkKNAQ)
 ## 尚未开始：
 - K8S
 - kafaka
