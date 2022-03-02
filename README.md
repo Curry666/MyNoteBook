@@ -4,6 +4,7 @@
 
 - [**项目**][Go-Micro微服务](https://www.wolai.com/jgjN7MrDFHJMbqfDHHQASM)（用到的技术栈为golang + docker + consul + grpc + protobuf + gin + mysql + redis + fastDFS + nginx)
 - [**项目**][手写ORM框架](https://www.wolai.com/9Xy8kYiU1vxDvW6h2Kj27s)（模仿gorm框架）
+- [**工具**][kubernetes学习笔记](https://www.wolai.com/KozWvj9ReyJ3AGdCAsB45)
 
 ## 目前在不断丰富中：
 - [**算法**][力扣算法刷题笔记](https://www.wolai.com/k8CZJCY3wwWWc11ApSomF)
