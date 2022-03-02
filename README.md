@@ -16,6 +16,6 @@
 - [**工具**][FastDFS学习笔记](https://www.wolai.com/uvvzckKu389EMTsKjkKNAQ)
 ## 尚未开始：
 - kafaka
-- 更系统地重学linux
-- 等等等
+- linux(更系统的重新学习)
+- nginx
 
