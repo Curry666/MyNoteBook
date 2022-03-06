@@ -3,7 +3,7 @@
 ## 目前在学习中：
 - [**算法**][力扣算法刷题笔记](https://www.wolai.com/k8CZJCY3wwWWc11ApSomF)
 - [**工具**][kubernetes学习笔记](https://www.wolai.com/KozWvj9ReyJ3AGdCAsB45)
-- [**工具**][Nginx学习笔记](https://www.wolai.com/qBwyKs5GyBHqP1zo1DNQEF5)
+- [**工具**][Nginx学习笔记](https://www.wolai.com/qBwyKs5GyBHqP1zo1DNQEF)
 - [**比赛**]2022华为软件精英挑战赛
 
 ## 目前在不断丰富中：
