@@ -4,6 +4,7 @@
 - [**算法**][力扣算法刷题笔记](https://www.wolai.com/k8CZJCY3wwWWc11ApSomF)（停摆中）
 - [**面试**]整理八股文ing（MySQL，Redis，Go语言，OS，计网等.....）
 - [**项目**]MIT6.824（目前已完成Lab2a 2b 2c，停摆中）
+- [**算法**][共识算法笔记](https://www.wolai.com/curry00/itx4oASPUTR15mtcrZtcn6)(学习中)
 ## 目前在不断丰富中：
 - [**比赛**][2022华为软件精英挑战赛](https://www.wolai.com/geVswNzTUZn78ytkhQ7Fcb)（初赛武长赛区64强）
 - [**项目**][Go-Micro微服务](https://www.wolai.com/jgjN7MrDFHJMbqfDHHQASM)（用到的技术栈为golang + docker + consul + grpc + protobuf + gin + mysql + redis + fastDFS + nginx)
