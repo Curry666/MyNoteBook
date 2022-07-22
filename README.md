@@ -2,7 +2,7 @@
 
 ## 目前在学习中：
 - [**实习**]互联网小厂实习ing
-- [**算法**][力扣算法刷题笔记](https://www.wolai.com/k8CZJCY3wwWWc11ApSomF)（更新中）
+- [**算法**][力扣算法刷题笔记](https://www.wolai.com/k8CZJCY3wwWWc11ApSomF)（剑指Offer2一刷完成，复习中）
 - [**面试**]整理八股文ing（MySQL，Redis，Go语言，OS，计网等.....）
 - [**项目**]MIT6.824（目前已完成Lab2a 2b 2c，停摆中）
 - [**算法**][共识算法笔记](https://www.wolai.com/curry00/itx4oASPUTR15mtcrZtcn6)(停摆中)
